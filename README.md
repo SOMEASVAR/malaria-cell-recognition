@@ -50,7 +50,10 @@ We evaluate the trained model's performance using the testing data, generating a
 We demonstrate the model's practical use by randomly selecting and testing a new cell image for classification.
 
 ## PROGRAM:
-
+```
+Program Developed by: Someasvar R
+Reg No: 212221230103
+```
 ### Import Liraries:
 ```
 import os
