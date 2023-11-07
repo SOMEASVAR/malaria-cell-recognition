@@ -47,26 +47,26 @@ We evaluate the trained model's performance using the testing data, generating a
 ### Step 9: Check for New Image
 We demonstrate the model's practical use by randomly selecting and testing a new cell image for classification.
 
-## PROGRAM
+## PROGRAM:
 
 Include your code here
 
-## OUTPUT
+## OUTPUT:
 
 ### Training Loss, Validation Loss Vs Iteration Plot:
 
 ![image](https://github.com/SOMEASVAR/malaria-cell-recognition/assets/93434149/513b341e-535a-4fd6-8218-95ef96445da7)
 
 
-### Classification Report
+### Classification Report:
 ![image](https://github.com/SOMEASVAR/malaria-cell-recognition/assets/93434149/7ef0deec-c612-4007-b0b3-e13fed02b655)
 
 
-### Confusion Matrix
+### Confusion Matrix:
 
 ![image](https://github.com/SOMEASVAR/malaria-cell-recognition/assets/93434149/3d038622-b3e0-4770-9076-f80cde2a7137)
 
-### New Sample Data Prediction
+### New Sample Data Prediction:
 
 ![image](https://github.com/SOMEASVAR/malaria-cell-recognition/assets/93434149/1304d333-4c88-4556-8cf5-785a74820e49)
 
