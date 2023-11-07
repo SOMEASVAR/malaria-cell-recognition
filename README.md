@@ -53,20 +53,23 @@ Include your code here
 
 ## OUTPUT
 
-### Training Loss, Validation Loss Vs Iteration Plot
+### Training Loss, Validation Loss Vs Iteration Plot:
 
-Include your plot here
+![image](https://github.com/SOMEASVAR/malaria-cell-recognition/assets/93434149/513b341e-535a-4fd6-8218-95ef96445da7)
+
 
 ### Classification Report
+![image](https://github.com/SOMEASVAR/malaria-cell-recognition/assets/93434149/7ef0deec-c612-4007-b0b3-e13fed02b655)
 
-Include Classification Report here
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![image](https://github.com/SOMEASVAR/malaria-cell-recognition/assets/93434149/3d038622-b3e0-4770-9076-f80cde2a7137)
 
 ### New Sample Data Prediction
 
-Include your sample cell image input and output of your model.
+![image](https://github.com/SOMEASVAR/malaria-cell-recognition/assets/93434149/1304d333-4c88-4556-8cf5-785a74820e49)
 
-## RESULT
+
+## RESULT:
+Thus, a deep neural network for Malaria infected cell recognition is developed and the performance is analyzed.
